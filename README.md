@@ -1,16 +1,134 @@
-# React + Vite
+# 🌱 AgriConnect
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Bridging Farmers with Opportunities & Society
 
-Currently, two official plugins are available:
+A digital platform designed to empower farmers, connect agricultural experts, and inspire society through technology.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🌐 **Live Demo:** [https://fsad-project-iota.vercel.app/](https://fsad-project-iota.vercel.app/)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📌 About the Project
 
-## Expanding the ESLint configuration
+Agriculture is the backbone of our economy, yet farmers often face challenges such as:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* Lack of awareness
+* Limited access to expert guidance
+* Poor market connectivity
+* Limited exposure to modern agricultural opportunities
+
+**AgriConnect** aims to solve these problems by creating a centralized digital ecosystem that connects farmers, experts, administrators, and the public.
+
+---
+
+## 🚀 Features
+
+### 👨‍💼 Admin
+
+* Manage platform content
+* Approve and monitor posts
+* Manage user accounts
+* Ensure data authenticity
+
+### 🚜 Farmer
+
+* Access farming resources
+* Connect with agricultural experts
+* Explore government schemes
+* Post queries and share experiences
+
+### 🌿 Agricultural Expert
+
+* Provide consultancy and guidance
+* Publish educational content
+* Conduct digital awareness sessions
+
+### 🌍 Public User
+
+* Learn about agriculture
+* Participate in discussions
+* Support farmer initiatives
+
+---
+
+## 🛠 Tech Stack
+
+* ⚛ React.js
+* 🌐 HTML5
+* 🎨 CSS3
+* 🅱 Bootstrap
+* 📜 JavaScript
+
+---
+
+## 📂 Project Structure
+
+```
+AgriConnect/
+│
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── assets/
+│   ├── App.js
+│   └── index.js
+│
+├── package.json
+└── README.md
+```
+
+---
+
+## ⚙ Installation & Setup
+
+Follow these steps to run the project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/agriconnect.git
+
+# Navigate to project folder
+cd agriconnect
+
+# Install dependencies
+npm install
+
+# Start development server
+npm start
+```
+
+The app will run at:
+👉 [http://localhost:3000/](http://localhost:3000/)
+
+---
+
+## 🎯 Project Impact
+
+AgriConnect contributes to:
+
+* Increasing awareness about agriculture
+* Improving farmers’ access to knowledge
+* Encouraging youth involvement in farming
+* Supporting digital transformation in agriculture
+* Promoting sustainable development
+
+---
+
+## 👥 Team Members
+
+* **Anala Hemanth** – 2400031303
+* **M.S. Yaswanth Kumar** – 2400031422
+* **K. Hari** – 2400031794
+
+🎓 KL University
+
+---
+
+## 📌 Future Enhancements
+
+* Backend integration
+* Real-time chat between farmers and experts
+* Government API integration
+* Mobile responsive optimization
+* Deployment with full-stack architecture
