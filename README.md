@@ -4,7 +4,6 @@
 
 A digital platform designed to empower farmers, connect agricultural experts, and inspire society through technology.
 
-🌐 **Live Demo:** [https://fsad-project-iota.vercel.app/](https://fsad-project-iota.vercel.app/)
 
 ---
 
